@@ -1,0 +1,8 @@
+{
+  "name": "Agent OS",
+  "description": "Simple, secure AI assistants and automated tasks built for mobile.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

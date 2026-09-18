@@ -1,0 +1,49 @@
+*.iml
+.gradle
+.kotlin
+/local.properties
+/.idea/
+.idea/
+.DS_Store
+Thumbs.db
+/build
+*/build/
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Environment and Secret Files
+.env
+.env.*
+.env.local
+.env.development
+.env.production
+.env.staging
+.env.test
+!.env.example
+
+# Keystore, Certificate and Signing Material
+*.jks
+*.keystore
+*.p12
+*.pfx
+*.pem
+*.key
+*.der
+debug.keystore
+debug.keystore.base64
+my-upload-key.jks
+
+# Service Account & API Configuration Files
+google-services.json
+*credentials*.json
+*service-account*.json
+firebase-adminsdk*.json
+
+# Build Outputs & Binary Packages
+.build-outputs/
+*.apk
+*.aab
+*.dex
+
